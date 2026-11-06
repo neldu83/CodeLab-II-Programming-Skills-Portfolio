@@ -1,3 +1,4 @@
+// Challenge 1 - CO2 Emissions Calculator
 
 #include <iostream>  // For input and output
 #include <iomanip>   // For decimal formatting
